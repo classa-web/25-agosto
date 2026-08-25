@@ -1,4 +1,14 @@
 body {
-    color: #fff
-    background: rosybrown
+    color: blueviolet;
+    background-color:gray;
+}
+
+header {
+background-color:palegreen;
+width:80%;
+
+}
+
+div{ background-color: aquamarine;
+    width: 80%;
 }
